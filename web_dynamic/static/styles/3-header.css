@@ -13,3 +13,7 @@ header {
     background: url("../images/logo.png") no-repeat center;
     padding-left: 20px;
 }
+
+.available {
+	background-color: #ff545f;
+}
